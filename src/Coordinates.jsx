@@ -84,9 +84,9 @@ const ClickCoordinates = () => {
   return (
     <div>
       <div style={{ display: "flex", columnGap: "5px", justifyContent: "center", alignItems: "center", margin: "10px" }}>
-        <button style={{ cursor: "pointer" }} onClick={undo}>Undo</button>
-        <button style={{ cursor: "pointer" }} onClick={redo}>Redo</button>
-        <button style={{ cursor: "pointer" }} onClick={reset}>reset</button>
+        <button onClick={undo}>Undo</button>
+        <button onClick={redo}>Redo</button>
+        <button onClick={reset}>Reset</button>
       </div>
       <h2>Click to Paint a Dot</h2>
       <canvas
