@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bubble-Tap/static/css/main.426a4f0d.css",
+    "main.js": "/Bubble-Tap/static/js/main.df118c87.js",
+    "static/js/453.3ec0fed0.chunk.js": "/Bubble-Tap/static/js/453.3ec0fed0.chunk.js",
+    "index.html": "/Bubble-Tap/index.html",
+    "main.426a4f0d.css.map": "/Bubble-Tap/static/css/main.426a4f0d.css.map",
+    "main.df118c87.js.map": "/Bubble-Tap/static/js/main.df118c87.js.map",
+    "453.3ec0fed0.chunk.js.map": "/Bubble-Tap/static/js/453.3ec0fed0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426a4f0d.css",
+    "static/js/main.df118c87.js"
+  ]
+}
